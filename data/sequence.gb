@@ -1,0 +1,296 @@
+LOCUS       NM_007389               4320 bp    mRNA    linear   ROD 29-DEC-2020
+DEFINITION  Mus musculus cholinergic receptor, nicotinic, alpha polypeptide 1
+            (muscle) (Chrna1), mRNA.
+ACCESSION   NM_007389 XM_911658
+VERSION     NM_007389.5
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 4320)
+  AUTHORS   Munezane H, Oizumi H, Wakabayashi T, Nishio S, Hirasawa T, Sato T,
+            Harada A, Yoshida T, Eguchi T, Yamanashi Y, Hashimoto T and
+            Iwatsubo T.
+  TITLE     Roles of Collagen XXV and Its Putative Receptors PTPsigma/delta in
+            Intramuscular Motor Innervation and Congenital Cranial
+            Dysinnervation Disorder
+  JOURNAL   Cell Rep 29 (13), 4362-4376 (2019)
+   PUBMED   31875546
+REFERENCE   2  (bases 1 to 4320)
+  AUTHORS   Liu Y, Sugiura Y, Chen F, Lee KF, Ye Q and Lin W.
+  TITLE     Blocking skeletal muscle DHPRs/Ryr1 prevents neuromuscular synapse
+            loss in mutant mice deficient in type III Neuregulin 1 (CRD-Nrg1)
+  JOURNAL   PLoS Genet 15 (3), e1007857 (2019)
+   PUBMED   30870432
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 4320)
+  AUTHORS   Gould TW, Dominguez B, de Winter F, Yeo GW, Liu P, Sundararaman B,
+            Stark T, Vu A, Degen JL, Lin W and Lee KF.
+  TITLE     Glial cells maintain synapses by inhibiting an activity-dependent
+            retrograde protease signal
+  JOURNAL   PLoS Genet 15 (3), e1007948 (2019)
+   PUBMED   30870413
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 4320)
+  AUTHORS   Kaplan MM, Sultana N, Benedetti A, Obermair GJ, Linde NF,
+            Papadopoulos S, Dayal A, Grabner M and Flucher BE.
+  TITLE     Calcium Influx and Release Cooperatively Regulate AChR Patterning
+            and Motor Axon Outgrowth during Neuromuscular Junction Formation
+  JOURNAL   Cell Rep 23 (13), 3891-3904 (2018)
+   PUBMED   29949772
+REFERENCE   5  (bases 1 to 4320)
+  AUTHORS   Dellisanti CD, Yao Y, Stroud JC, Wang ZZ and Chen L.
+  TITLE     Crystal structure of the extracellular domain of nAChR alpha1 bound
+            to alpha-bungarotoxin at 1.94 A resolution
+  JOURNAL   Nat Neurosci 10 (8), 953-962 (2007)
+   PUBMED   17643119
+  REMARK    Erratum:[Nat Neurosci. 2007 Sep;10(9):1222]
+REFERENCE   6  (bases 1 to 4320)
+  AUTHORS   MacGregor TM, Copeland NG, Jenkins NA and Giguere V.
+  TITLE     The murine gene for cellular retinoic acid-binding protein type II.
+            Genomic organization, chromosomal localization, and
+            post-transcriptional regulation by retinoic acid
+  JOURNAL   J Biol Chem 267 (11), 7777-7783 (1992)
+   PUBMED   1313808
+REFERENCE   7  (bases 1 to 4320)
+  AUTHORS   Pilz A, Moseley H, Peters J and Abbott C.
+  TITLE     Comparative mapping of mouse chromosome 2 and human chromosome 9q:
+            the genes for gelsolin and dopamine beta-hydroxylase map to mouse
+            chromosome 2
+  JOURNAL   Genomics 12 (4), 715-719 (1992)
+   PUBMED   1315305
+REFERENCE   8  (bases 1 to 4320)
+  AUTHORS   Frankel WN, Lee BK, Stoye JP, Coffin JM and Eicher EM.
+  TITLE     Characterization of the endogenous nonecotropic murine leukemia
+            viruses of NZB/B1NJ and SM/J inbred strains
+  JOURNAL   Mamm Genome 2 (2), 110-122 (1992)
+   PUBMED   1311971
+REFERENCE   9  (bases 1 to 4320)
+  AUTHORS   Taylor BA and Rowe L.
+  TITLE     Localization of the gene encoding the alpha-subunit of the
+            acetylcholine receptor on chromosome 2 of the mouse
+  JOURNAL   Cytogenet Cell Genet 52 (1-2), 102-103 (1989)
+   PUBMED   2558853
+REFERENCE   10 (bases 1 to 4320)
+  AUTHORS   Merlie,J.P., Sebbane,R., Gardner,S. and Lindstrom,J.
+  TITLE     cDNA clone for the alpha subunit of the acetylcholine receptor from
+            the mouse muscle cell line BC3H-1
+  JOURNAL   Proc Natl Acad Sci U S A 80 (12), 3845-3849 (1983)
+   PUBMED   6344089
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL928889.14, AK029177.1 and
+            AL928813.10.
+            On Nov 30, 2012 this sequence version replaced NM_007389.4.
+            
+            Summary: This gene encodes an alpha subunit of the muscle-derived
+            nicotinic acetylcholine receptor, a pentameric neurotransmitter
+            receptor and member of the ligand-gated ion channel superfamily.
+            The alpha subunit plays a role in substrate binding and channel
+            gating. [provided by RefSeq, Nov 2012].
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK029177.1, BC137678.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN01164139 [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-32                AL928889.14        3375-3406           c
+            33-2689             AK029177.1         2-2658
+            2690-4320           AL928813.10        135556-137186       c
+FEATURES             Location/Qualifiers
+     source          1..4320
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="2"
+                     /map="2 43.76 cM"
+     gene            1..4320
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /note="cholinergic receptor, nicotinic, alpha polypeptide
+                     1 (muscle)"
+                     /db_xref="GeneID:11435"
+                     /db_xref="MGI:MGI:87885"
+     exon            1..94
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             52..1425
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /note="acetylcholine receptor subunit alpha"
+                     /codon_start=1
+                     /product="acetylcholine receptor subunit alpha precursor"
+                     /protein_id="NP_031415.2"
+                     /db_xref="CCDS:CCDS16132.1"
+                     /db_xref="GeneID:11435"
+                     /db_xref="MGI:MGI:87885"
+                     /translation="MELSTVLLLLGLCSAGLVLGSEHETRLVAKLFEDYSSVVRPVED
+                     HREIVQVTVGLQLIQLINVDEVNQIVTTNVRLKQQWVDYNLKWNPDDYGGVKKIHIPS
+                     EKIWRPDVVLYNNADGDFAIVKFTKVLLDYTGHITWTPPAIFKSYCEIIVTHFPFDEQ
+                     NCSMKLGTWTYDGSVVAINPESDQPDLSNFMESGEWVIKEARGWKHWVFYSCCPTTPY
+                     LDITYHFVMQRLPLYFIVNVIIPCLLFSFLTSLVFYLPTDSGEKMTLSISVLLSLTVF
+                     LLVIVELIPSTSSAVPLIGKYMLFTMVFVIASIIITVIVINTHHRSPSTHIMPEWVRK
+                     VFIDTIPNIMFFSTMKRPSRDKQEKRIFTEDIDISDISGKPGPPPMGFHSPLIKHPEV
+                     KSAIEGVKYIAETMKSDQESNNAAEEWKYVAMVMDHILLGVFMLVCLIGTLAVFAGRL
+                     IELHQQG"
+     sig_peptide     52..111
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     112..1422
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /product="Acetylcholine receptor subunit alpha.
+                     /id=PRO_0000000306"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04756.1)"
+     misc_feature    532..534
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17643119; propagated from
+                     UniProtKB/Swiss-Prot (P04756.1); glycosylation site"
+     misc_feature    742..816
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04756.1);
+                     transmembrane region"
+     misc_feature    838..894
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04756.1);
+                     transmembrane region"
+     misc_feature    940..999
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04756.1);
+                     transmembrane region"
+     misc_feature    1336..1392
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04756.1);
+                     transmembrane region"
+     exon            95..240
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /inference="alignment:Splign:2.1.0"
+     exon            241..285
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /inference="alignment:Splign:2.1.0"
+     exon            286..395
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /inference="alignment:Splign:2.1.0"
+     exon            396..591
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /inference="alignment:Splign:2.1.0"
+     exon            592..829
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /inference="alignment:Splign:2.1.0"
+     exon            830..1053
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1054..1293
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1294..4320
+                     /gene="Chrna1"
+                     /gene_synonym="A; Achr; Achr-1; Acra; AI385656; AI608266"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 ggagtaggac cggcagcaag ccgctggcgg ccacagcggc acccacagcc catggagctc
+       61 tcgactgttc tcctgctgct aggcctctgc tccgctggcc ttgttctggg ctccgaacat
+      121 gagacgcgtc tggtggcaaa gctctttgaa gactacagca gtgtagtccg gccagtggag
+      181 gaccaccgtg agattgtaca agtcaccgtg ggtctacagc tgatccagct tatcaatgtg
+      241 gatgaagtaa atcagattgt gacaaccaat gtacgtctga aacagcaatg ggtcgattac
+      301 aacttgaaat ggaatccaga tgactatgga ggagtgaaaa aaattcacat cccctcggaa
+      361 aagatctggc ggccggacgt cgttctctat aacaacgcag acggcgactt tgccattgtc
+      421 aaattcacca aggtgctcct ggactacacc ggccacatca cctggacacc gccagccatc
+      481 tttaaaagct actgtgagat cattgtcact cactttccct tcgatgagca gaactgcagc
+      541 atgaagctgg gcacctggac ctatgacggc tctgtggtgg ccattaaccc ggaaagtgac
+      601 cagcccgacc tgagtaactt catggagagc ggggagtggg tgatcaagga agctcggggc
+      661 tggaagcact gggtgttcta ctcctgctgc cccaccactc cctacctgga catcacctac
+      721 cacttcgtca tgcagcgcct gcccctctac ttcattgtca acgtcatcat tccctgcctg
+      781 ctcttctcct tcttaaccag cctggtgttc tacctgccca cagactcagg ggagaagatg
+      841 acgctgagca tctctgtctt actgtccctg accgtgttcc ttctggtcat tgtggagcta
+      901 atcccttcca cctccagcgc tgtgcccctg atcgggaagt atatgttgtt caccatggtc
+      961 tttgtcattg cgtccatcat catcaccgtc atcgtcatca acacacacca ccgttcgccc
+     1021 agcacccaca tcatgcccga gtgggtgcgg aaggttttta tcgacactat cccaaacatc
+     1081 atgtttttct ccacaatgaa aagaccatcc agagataaac aagagaaaag gatttttaca
+     1141 gaagacatag atatatctga catctctggg aagccgggtc ctccacctat gggctttcac
+     1201 tctccgctga tcaagcaccc tgaggtgaaa agcgccatcg agggcgtgaa gtacattgca
+     1261 gagaccatga agtcagacca ggagtccaat aacgccgctg aggaatggaa gtatgttgcc
+     1321 atggtgatgg atcacatcct cctcggagtc tttatgctgg tgtgtctcat cgggacgctg
+     1381 gctgtgtttg caggtcggct cattgagtta catcaacaag gatgagcaga ggctgagcta
+     1441 agcctacctc tgtcccagcc atagccatcg ctaggaaaga tggaagagag gaaggtctgt
+     1501 ctccttgaat cctttcacac ttaccaaaca tgcagtgttc tacatgtcct acatgttaat
+     1561 gagagtgatc tctgctcaca cggctgtatt cttgaagtgt ctcccctttg cttctgcttt
+     1621 taacactatg ggcctcctta aagggcgaac cctttgaagt aaataaaagt gagccctcaa
+     1681 aagaagtgtt tgcttctaaa tggcccctgg gagagttttg cttggatact caaggttttc
+     1741 tgtttgtatt gccatggcta gttgtttttg ttttctttcc tttaataaat ataattgtac
+     1801 ttatatgagt gatccgccta cgtgtatgtc tcacatacac gcctagtgtc catgaaggtc
+     1861 agaagaaggt atcccatctc ctagaactgg aactacaaat ggttgtgagc gtccacatgg
+     1921 aacctgggaa tcaggccctc tggaagagca cccagtgttc ttaaccactg aaccacccac
+     1981 ctatcgggct cagttaattt ttatttttaa agtgctgaga gtcccttact taagacacac
+     2041 ggtttcatac ctactagaaa agtcgtgtct accagattcc ccagatttga tgtggacaca
+     2101 aaggaagtgg tagaaaggaa attaggtaac tttaaactta aaaaaaaatt gtgtgtgtgt
+     2161 gtgtgtgtgt gtgtgtgtgt gtgtgtacat actcgcacac attgatgaaa ttgggggaca
+     2221 acttttagga gttagttctc atcttttatc tcatttgagg caaagtatct tgtgatttct
+     2281 gccgctgtgt tacattctca tgtaaagctt cctggggcat tttcctttct atacttctcg
+     2341 gcccatgaac agagtgcagg gattccagat gcatgccgcc atctccagct tttcataggt
+     2401 cctaggatag aatttaggtc gttaggtttg tccagcaaaa aactactttt acctgcttaa
+     2461 tccatttcac tggcccaaag gtaattttag ggcgatcaca tacaaatagt atcaaaacct
+     2521 catggtttaa agtagacttc tgaaaccagg agagggagaa tgctttctta agtgatttct
+     2581 gtttgagagg ccttcttgaa agggcgcttg ggattccttg ggattgtacc tagagctttg
+     2641 cacacagagc tataactgag cctcagctct cccaacttaa cggagcccct ggattttgtt
+     2701 ctcaggaccc gaggaagggc agatcccatc ctcatcaagg gtgtgcctct gaccccatga
+     2761 gaatcgtctc gcccgcatgg gtttatttta tccaaattgt tttacacagt ctccataatg
+     2821 tccctaattt acaaatggaa aaaaaaattt ttggggaaag ttaaactctg ctccatctag
+     2881 aagtagaaga actgagatct gaacccagac agaacttaag attctaaaac aggggctgga
+     2941 gagatggctc tatggttaag atcattccca gcaaccacag ggtgcatggt ggctcacaac
+     3001 catctacagt gggatctgat gccctctgct ggtgtgcagg tgtgcatata caaagcactc
+     3061 acacataaat acataaacaa acaaacaaat attttttaaa gatttattta tttattatat
+     3121 gtaaatacac tgtagctgtc ttcagacact ccagaagagg gcatcagatc ttgttacaga
+     3181 tggttgtgag ccaccatgtg gttgctggga tttgaactct ggaccttcag aagaacagtc
+     3241 gggtgctctt acccactgag ccatctcacc agccccaaat atttttttta aaagtcaaaa
+     3301 agaaaaggga ttctaaaccg acttgcagct gatggggtca cctgctccct gctctcccag
+     3361 catgcctggc gtgatctaag tagttctggt ctgtgttggt ggggactctg tgatatccta
+     3421 tttcctgcct tctcaattaa aacccctggc ttttccttca gtccttggac gcaatcatgt
+     3481 ttggagttca ggccctatga atggaaccag aaacgtatgc acacaccatc accatttctg
+     3541 aaatctgaaa aataaattct ctgtgccaaa ctctaggctc tagtacaatt tacccagacc
+     3601 aagaagccgt gtggctctgg acgcagaaaa ggcctttgaa tcacaaacac atctgatccg
+     3661 tcatctccag ggagagctat aaactgcata accaggaggc cagtgcgagc ccaggtggct
+     3721 tcaatctcct gagggacttc ccatcacccc tgcaccagtg ctgggctctt tcatctcaaa
+     3781 tagtttgcac tttaaagtgg aaacaattgg cagtttctca gaaagtcaca ctcgggtcac
+     3841 caagtcactc agcagtccca ttcccaggta gagagccaaa gaaatcgaaa gaaagactta
+     3901 cacaatttgt atgagaacgc gcacagaagg caagagccag agaaagcggt ctaggctcca
+     3961 acccacagac gacaagcaaa agggatgtgg agaatgggtt ttggggtgta tgtgtgtagg
+     4021 cctggggggc catcgccttt ttgttttgtt gttgtttttg agatagagtt tctcactggc
+     4081 ctggaacttg ccaagtagtt taggctggct aggcaggcca ttccgagatc tgcctgtctc
+     4141 ctctttctgc aaacaattta gttggcatgg gttctggggc tcttactcag atctaaaaac
+     4201 aagcattttg tcagttgatc taattcttta gctttttcta ctcacgacca ctttttgctt
+     4261 gagaaatgtt atgtagaaat ataaaatatg tataaaaata aataacaaag aaatttaatt
+//
+
